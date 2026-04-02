@@ -1,1 +1,4 @@
 lab01/creditcard.csv
+/project/.venv
+/project/__pycache__
+/project/data
